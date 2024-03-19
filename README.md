@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/85/33/70/1000_F_385337070_LSlZ7wWFZdPfiv96H7eKYDjLrHIbQsxb.jpg)](https://github.com/GreNinja47)
+[![MasterHead](https://images.nightcafe.studio/jobs/okuO6JSz4ihrmY1JeN2j/okuO6JSz4ihrmY1JeN2j--1--gxt1d_2x.jpg?tr=w-1600,c-at_max)](https://github.com/GreNinja47)
 <h1 align="center">Hi 👋, I'm Vaishakh V</h1>
 <h3 align="center">Crafting Data Stories with Deep Learning and Machine Learning: A Data Scientist's Journey</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
