@@ -4,8 +4,11 @@
 <img align="right" alt="Coding" width="500" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"
 
 - 🌱 I’m currently learning **Optimizing Large Language Models: AI Engineering at Scale**
+
 - 💬 Ask me about **Anything related to Data Science**
+  
 - 📫 How to reach me **vaishakvinodh@gmail.com**
+  
 - ⚡ Fun fact **Why did the data scientist bring a detective hat to work? Because in the wild world of data science, every day is a thrilling investigation into the mysteries of data!**
 
 <h3 align="left">Connect with me:</h3>
