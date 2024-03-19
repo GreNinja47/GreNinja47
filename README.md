@@ -4,16 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*U3WRRwLx3zeDkHmIVGLJdw.gif"
 
 - 🌱 I’m currently learning **Optimizing Large Language Models: AI Engineering at Scale**
-
 - 💬 Ask me about **Anything related to Data Science**
-
 - 📫 How to reach me **vaishakvinodh@gmail.com**
-
 - ⚡ Fun fact **Why did the data scientist bring a detective hat to work? Because in the wild world of data science, every day is a thrilling investigation into the mysteries of data!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishakhv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishakhv/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vaishakhv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishakhv/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
