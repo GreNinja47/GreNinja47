@@ -1,4 +1,6 @@
-[![MasterHead](https://media1.giphy.com/media/xfCOcqyBJYAf31OXr2/giphy.gif)](https://github.com/GreNinja47)
+<a href="https://github.com/GreNinja47">
+  <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" width="400" height="300">
+</a>
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
 <h3 align="center">Crafting Data Stories with Deep Learning and Machine Learning: A Data Scientist's Journey</h3>
