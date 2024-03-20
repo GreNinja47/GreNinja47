@@ -1,5 +1,5 @@
 <a href="https://github.com/GreNinja47">
-  <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" width="900" height="600">
+  <img src="https://creator.nightcafe.studio/creation/4DnuhTS4wRLDvsWY0IW9" width="900" height="600">
 </a>
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
