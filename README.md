@@ -1,8 +1,5 @@
 <a href="https://github.com/GreNinja47">
-  <div>
-    <iframe src="https://giphy.com/embed/xfCOcqyBJYAf31OXr2" width="440" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <p><a href="https://giphy.com/gifs/beauty-painting-butterflies-xfCOcqyBJYAf31OXr2">via GIPHY</a></p>
-  </div>
+  <iframe src="https://giphy.com/embed/xfCOcqyBJYAf31OXr2" width="400" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </a>
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
