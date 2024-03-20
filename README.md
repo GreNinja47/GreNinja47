@@ -1,5 +1,5 @@
 <a href="https://github.com/GreNinja47">
-  <img src="giphy.gif" width="800" height="300">
+  <img src="giphy.gif" width="800" height="600">
 </a>
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
