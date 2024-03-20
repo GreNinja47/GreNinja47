@@ -1,8 +1,8 @@
 <a href="https://github.com/GreNinja47">
-  <video width="400" controls>
-    <source src="[https://drive.google.com/drive/folders/17I4xgKf1Xg-IB2MwgSgwoXLAY1G_sxs4/V.mp4](https://drive.google.com/file/d/1Pv6UQjBa6hw0-nsyASHu2jV88zBeNraK/view?usp=drive_link)" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<video width="400" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1Pv6UQjBa6hw0-nsyASHu2jV88zBeNraK" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </a>
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
 <h3 align="center">Crafting Data Stories with Deep Learning and Machine Learning: A Data Scientist's Journey</h3>
