@@ -1,6 +1,6 @@
 <a href="https://github.com/GreNinja47">
   <video width="400" controls>
-    <source src="https://drive.google.com/drive/folders/17I4xgKf1Xg-IB2MwgSgwoXLAY1G_sxs4/V.mp4" type="video/mp4">
+    <source src="[https://drive.google.com/drive/folders/17I4xgKf1Xg-IB2MwgSgwoXLAY1G_sxs4/V.mp4](https://drive.google.com/file/d/1Pv6UQjBa6hw0-nsyASHu2jV88zBeNraK/view?usp=drive_link)" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </a>
