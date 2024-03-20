@@ -1,6 +1,4 @@
-<a href="https://github.com/GreNinja47">
-  <img src="https://creator.nightcafe.studio/creation/4DnuhTS4wRLDvsWY0IW9" alt="MasterHead" width="800" height="600">
-</a>
+[![MasterHead](https://creator.nightcafe.studio/creation/4DnuhTS4wRLDvsWY0IW9)](https://github.com/GreNinja47)
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
 <h3 align="center">Crafting Data Stories with Deep Learning and Machine Learning: A Data Scientist's Journey</h3>
