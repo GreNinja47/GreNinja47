@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/xfCOcqyBJYAf31OXr2/giphy.gif)](https://github.com/GreNinja47)
+[![MasterHead](https://giphy.com/gifs/beauty-painting-butterflies-xfCOcqyBJYAf31OXr2)](https://github.com/GreNinja47)
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
 <h3 align="center">Crafting Data Stories with Deep Learning and Machine Learning: A Data Scientist's Journey</h3>
