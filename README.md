@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
-<h3 align="center">Crafting Data Stories with Deep Learning and Machine Learning: A Data Scientist's Journey</h3>
+<h3 align="center">Crafting Data Stories with Deep Learning and Machine Learning: A AI Scientist's Journey</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
 - 🌱 I’m currently learning **Optimizing Large Language Models: AI Engineering at Scale**
