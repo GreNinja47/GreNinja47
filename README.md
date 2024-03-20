@@ -1,5 +1,5 @@
 <a href="https://github.com/GreNinja47">
-  <img src="https://images.nightcafe.studio/jobs/6BfmJonEnf02b1Wm3xDp/6BfmJonEnf02b1Wm3xDp--1--zj2pj_12.5x.jpg?tr=w-1600,c-at_max" alt="MasterHead" width="800" height="600">
+  <img src="https://creator.nightcafe.studio/creation/4DnuhTS4wRLDvsWY0IW9" alt="MasterHead" width="800" height="600">
 </a>
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
