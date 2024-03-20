@@ -1,7 +1,5 @@
 <a href="https://github.com/GreNinja47">
-<video width="400" controls>
-  <source src="https://drive.google.com/uc?id=1Pv6UQjBa6hw0-nsyASHu2jV88zBeNraK&export=download" type="video/mp4">
-  Your browser does not support the video tag.
+<iframe src="https://giphy.com/embed/xfCOcqyBJYAf31OXr2" width="440" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/beauty-painting-butterflies-xfCOcqyBJYAf31OXr2">via GIPHY</a></p>
 </video>
 </a>
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
