@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hcGE5aWhpc2UwZmhjNHpuZmc4NGZwendrcTk0MmQ3ZmpnaGU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xfCOcqyBJYAf31OXr2/giphy.gif)](https://github.com/GreNinja47)
+[![MasterHead](https://images.nightcafe.studio/jobs/6BfmJonEnf02b1Wm3xDp/6BfmJonEnf02b1Wm3xDp--1--zj2pj_12.5x.jpg?tr=w-1600,c-at_max)](https://github.com/GreNinja47)
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
 <h3 align="center">Crafting Data Stories with Deep Learning and Machine Learning: A Data Scientist's Journey</h3>
