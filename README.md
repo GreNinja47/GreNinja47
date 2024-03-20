@@ -1,8 +1,5 @@
 <a href="https://github.com/GreNinja47">
-  <div>
-    <iframe src="https://giphy.com/embed/xfCOcqyBJYAf31OXr2" width="440" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <p><a href="https://giphy.com/gifs/beauty-painting-butterflies-xfCOcqyBJYAf31OXr2">via GIPHY</a></p>
-  </div>
+  <img src="https://images.nightcafe.studio/jobs/y7Gix9zdEx9NFw8GPiTo/y7Gix9zdEx9NFw8GPiTo--1--i6d67.jpg?tr=w-1080,c-at_max" alt="MasterHead" width="400" height="200">
 </a>
 
 <h1 align="center">Hi 👋, I'm Vaishakh </h1>
